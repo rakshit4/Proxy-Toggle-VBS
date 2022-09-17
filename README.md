@@ -1,4 +1,4 @@
-# Windows_Proxy_Toggler
+# Windows Proxy Toggler
 A clickable icon on your Windows desktop to toggle your proxy on and off.
  
 
